@@ -12,3 +12,9 @@ I was responsible for transforming the raw data into visually compelling graphic
 
 ## Results
 The resulting data visualizations not only made complex information accessible but also played a pivotal role in shaping the project's findings. These visuals simplified intricate archaeological data, making it comprehensible to a wider audience and contributing significantly to our understanding of the site.
+
+![image](https://github.com/Eni0l/archaeological-dataviz/assets/149200508/c1ecc720-222d-4e6b-a207-fa2f4382cee4)
+![image](https://github.com/Eni0l/archaeological-dataviz/assets/149200508/0e6d42c1-0e08-4e6b-ba96-22ae72437320)
+![image](https://github.com/Eni0l/archaeological-dataviz/assets/149200508/fd387dda-a6eb-487a-bff5-f75494a62d93)
+
+
